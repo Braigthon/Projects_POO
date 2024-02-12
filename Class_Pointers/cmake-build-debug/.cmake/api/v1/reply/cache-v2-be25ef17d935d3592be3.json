@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/brayan/CLionProjects/untitled/cmake-build-debug"
+			"value" : "/home/brayan/Projects_POO/Class_Pointers/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/brayan/CLionProjects/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/brayan/Projects_POO/Class_Pointers/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/brayan/CLionProjects/untitled"
+			"value" : "/home/brayan/Projects_POO/Class_Pointers"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -843,7 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled"
+			"value" : "Class_Pointers"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1142,19 +1142,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "untitled_BINARY_DIR",
+			"name" : "Class_Pointers_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1163,10 +1151,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/brayan/CLionProjects/untitled/cmake-build-debug"
+			"value" : "/home/brayan/Projects_POO/Class_Pointers/cmake-build-debug"
 		},
 		{
-			"name" : "untitled_IS_TOP_LEVEL",
+			"name" : "Class_Pointers_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1178,7 +1166,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "untitled_SOURCE_DIR",
+			"name" : "Class_Pointers_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1187,7 +1175,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/brayan/CLionProjects/untitled"
+			"value" : "/home/brayan/Projects_POO/Class_Pointers"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",

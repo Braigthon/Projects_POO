@@ -1,0 +1,3 @@
+/home/brayan/Projects_POO/Class_Pointers/cmake-build-debug/CMakeFiles/Class_Pointers.dir
+/home/brayan/Projects_POO/Class_Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/brayan/Projects_POO/Class_Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
